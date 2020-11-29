@@ -1,5 +1,5 @@
 header {
-  background: url(http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png);
+  background-image: url(header.png);
   background-size: contain;
   height: 115px;
   padding-top: 200px;
